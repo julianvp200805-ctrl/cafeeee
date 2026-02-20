@@ -32,6 +32,7 @@ header .navbar {
     font-weight: bold;
     font-size: 30px;
 }
+
 .nav-text {
     font-family: "Ribeye", cursive;
     padding-left: 50px;
@@ -44,10 +45,7 @@ header .navbar {
     border-radius: 20px; /*bordes redondeados de los enlaces*/
     transition: 0.3s ease; /*transición suave para el cambio de color*/
 }
-.navbar .nav-menu .nav-link:hover {
-    background-color: #e2750f; /*color de fondo al pasar el mouse por encima*/
-    color: #3b141c
-}
+
 .nav-actions{
     display: flex;
     align-items: center;
@@ -237,7 +235,8 @@ gap: 30px;
 .hero-section .hero-details .subtitle { font-size: 1.6rem; max-width: 100%; }
 .hero-section .hero-details .description { font-size: 1rem; max-width: 100%; }
 .hero-section.hero-details .buttons { justify-content: center; flex-wrap: wrap; }
-.hero-section .hero-image-wrapper { max-width: 800px; margin-right: 0; }
+.hero-section .hero-image-wrapper { max-width:
+    px; margin-right: 0; }
 
 @media (max-width: 480px) {
 .hero-section.hero-details .title { font-size: 1.7rem; }
