@@ -1,8 +1,8 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg: #4e202a;
-  --nav-bg: #46222d;
+  --bg: #8a6464;
+  --nav-bg: #3b141c;
   --accent: #ffffff;
   --text-light: #f5ede8;
   --card-radius: 16px;
